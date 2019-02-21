@@ -8,10 +8,16 @@ import {MatCardModule} from '@angular/material/card';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+import { LoginComponent } from './login/login.component';
+import { AboutComponent } from './about/about.component';
+import { HomeLogInComponent } from './home-log-in/home-log-in.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    LoginComponent,
+    AboutComponent,
+    HomeLogInComponent
   ],
   imports: [
     BrowserModule,
