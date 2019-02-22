@@ -1,4 +1,4 @@
-# Pontoproject
+# Ponto Project
 
 This project was created by Felipe de Albuquerque to show Angular and material design skills
 
