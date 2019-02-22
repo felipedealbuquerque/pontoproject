@@ -1,6 +1,6 @@
 # Pontoproject
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.2.
+This project was created by Felipe de Albuquerque to show Angular and material design skills
 
 ## Development server
 
